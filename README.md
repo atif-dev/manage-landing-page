@@ -37,7 +37,7 @@ Your users should be able to:
 
 ### Links
 
-- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-N_w2BTM8Zk
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/manage-landing-page-using-tailwind-css-OSrwvHgo4A
 - Live Site URL: https://atif-dev.github.io/manage-landing-page/
 - Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=X1_RKJt1wlSdtJDSwDHHdg
 - GitHub repo : https://github.com/atif-dev/manage-landing-page
