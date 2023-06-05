@@ -33,16 +33,14 @@ Your users should be able to:
 ### Screenshots
 
 ![PC View](https://github.com/atif-dev/fem_ping-coming-soon-page/blob/main/screenshots/PC.png?raw=true)
-![Mobile view](https://github.com/atif-dev/fem_ping-coming-soon-page/blob/main/screenshots/mobile.png?raw=true)
-
-(Find more screentshots in screenshots directory)
+![Mobile view](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/pc.png?raw=true)
 
 ### Links
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/ping-single-column-coming-soon-page-N_w2BTM8Zk
-- Live Site URL: https://atif-dev.github.io/fem_ping-coming-soon-page/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=3zwL4AB4h_oD2vr5898oHg
-- GitHub repo : https://github.com/atif-dev/fem_ping-coming-soon-page
+- Live Site URL: https://atif-dev.github.io/manage-landing-page/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=X1_RKJt1wlSdtJDSwDHHdg
+- GitHub repo : https://github.com/atif-dev/manage-landing-page
 
 ## My process
 
