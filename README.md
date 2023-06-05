@@ -32,8 +32,8 @@ Your users should be able to:
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/fem_ping-coming-soon-page/blob/main/screenshots/PC.png?raw=true)
-![Mobile view](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/pc.png?raw=true)
+![PC View](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/pc.png?raw=true)
+![Mobile view](https://github.com/atif-dev/manage-landing-page/blob/main/screenshots/mobile.png?raw=true)
 
 ### Links
 
